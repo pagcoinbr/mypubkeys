@@ -20,7 +20,7 @@ chmod 700 ~/.ssh
 nano /etc/ssh/sshd_config.d/50-cloud-init.conf
 ```
 
-mudar para no
+mudar para "no"
 
 
 
