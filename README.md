@@ -5,6 +5,11 @@ mkdir ~/.ssh
 ```
 
 ```bash
+https://github.com/pagcoinbtc/mypubkeys.git
+```
+
+
+```bash
 sudo rm -rf ~/ssh/authorized_keys
 ```
 
