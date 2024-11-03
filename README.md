@@ -1,6 +1,10 @@
 # mypubkeys
 
 ```bash
+mkdir ~/.ssh
+```
+
+```bash
 sudo rm -rf ~/ssh/authorized_keys
 ```
 
