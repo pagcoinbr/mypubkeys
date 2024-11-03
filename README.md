@@ -5,7 +5,7 @@ mkdir ~/.ssh
 ```
 
 ```bash
-https://github.com/pagcoinbtc/mypubkeys.git
+gitclone https://github.com/pagcoinbtc/mypubkeys.git
 ```
 
 
