@@ -14,7 +14,7 @@ sudo rm -rf ~/ssh/authorized_keys
 ```
 
 ```bash
-cp ssh ~/.ssh/mypubkeys/authorized_keys ~/ssh/authorized_keys
+cp ssh ~/.ssh/mypubkeys/authorized_keys ~/.ssh/authorized_keys
 ```
 
 ```bash
